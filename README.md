@@ -2,6 +2,11 @@
 This is the ROS workspace which packs together all of the projects needed
 for the robo_guide object tracking.
 
+The repository uses submodules to pull in all of the projects so this command
+for cloning:
+
+`git clone --recursive https://github.com/Tuebel/robo_guide_ws`
+
 # Dependencies
 The projects build on top of each and can be built in one source tree since they
 are catkin and cmake packages. Additional dependencies are:
