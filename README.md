@@ -29,5 +29,5 @@ are catkin and cmake packages. Additional dependencies are:
 
 # Build
 Since this is a mixed catkin & cmake workspace, the easiest and fastest way is
-to use the (catkin tools)[https://catkin-tools.readthedocs.io/en/latest/] or the
-newer (colcon build)[https://colcon.readthedocs.io/en/latest/user/quick-start.html].
+to use the [catkin tools](https://catkin-tools.readthedocs.io/en/latest/) or the
+newer [colcon build](https://colcon.readthedocs.io/en/latest/user/quick-start.html).
