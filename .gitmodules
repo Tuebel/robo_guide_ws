@@ -1,0 +1,18 @@
+[submodule "src/filter_bay"]
+	path = src/filter_bay
+	url = https://github.com/Tuebel/filter_bay.git
+[submodule "src/scigl_render"]
+	path = src/scigl_render
+	url = https://github.com/Tuebel/scigl_render.git
+[submodule "src/scigl_render_ros"]
+	path = src/scigl_render_ros
+	url = https://github.com/Tuebel/scigl_render_ros.git
+[submodule "src/robo_guide"]
+	path = src/robo_guide
+	url = https://github.com/Tuebel/robo_guide.git
+[submodule "src/robo_guide_msgs"]
+	path = src/robo_guide_msgs
+	url = https://github.com/Tuebel/robo_guide_msgs.git
+[submodule "src/charuco_detect"]
+	path = src/charuco_detect
+	url = https://github.com/Tuebel/charuco_detect.git
