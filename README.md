@@ -1,6 +1,6 @@
 # ROS Workspace
-This is the ROS workspace which packs together all of the projects needed
-for the robo_guide object tracking.
+This is the ROS workspace which contains all of the projects needed for the
+robo_guide object tracking.
 
 The repository uses submodules to pull in all of the projects so this command
 for cloning:
