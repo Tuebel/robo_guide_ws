@@ -1,21 +1,23 @@
 {
-  "configurations": [
-    {
-      "name": "Linux",
-      "includePath": [
-        "${workspaceFolder}/charuco_detect/include",
-        "${workspaceFolder}/filter_bay/include",
-        "${workspaceFolder}/robo_guide/include",
-        "${workspaceFolder}/scigl_render/include",
-        "${workspaceFolder}/scigl_render_ros/include",
-        "/opt/ros/kinetic/include"
-      ],
-      "defines": [],
-      "compilerPath": "/usr/bin/clang++-6.0",
-      "cStandard": "c11",
-      "cppStandard": "c++11",
-      "intelliSenseMode": "clang-x64"
-    }
-  ],
-  "version": 4
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/charuco_detect/include",
+                "${workspaceFolder}/filter_bay/include",
+                "${workspaceFolder}/robo_guide/include",
+                "${workspaceFolder}/scigl_render/include",
+                "${workspaceFolder}/scigl_render_ros/include",
+                "/opt/ros/kinetic/include",
+                "/usr/include/eigen3",
+                "/home/tim/robo_guide_ws/devel/include/robo_guide_msgs"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang++-6.0",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
 }

@@ -45,6 +45,9 @@
     "typeinfo": "cpp",
     "utility": "cpp",
     "algorithm": "cpp",
-    "iostream": "cpp"
-  }
+    "iostream": "cpp",
+    "csignal": "cpp",
+    "strstream": "cpp"
+  },
+  "C_Cpp.intelliSenseEngineFallback": "Enabled"
 }
