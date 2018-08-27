@@ -39,6 +39,9 @@ sudo make install
 - [glm](https://glm.g-truc.net/) linear algebra for OpenGL shaders
 - [assimp](http://www.assimp.org/) 3D model loading
 
+## Unit testing
+- [googletest](https://github.com/google/googletest)
+
 # Build
 Since this is a mixed catkin & cmake workspace, the easiest and fastest way is
 to use the [catkin tools](https://catkin-tools.readthedocs.io/en/latest/) or the
