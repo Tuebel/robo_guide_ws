@@ -30,7 +30,7 @@ sudo make install
 - image_transport for image pub/sub (installed with [ROS-Desktop](http://wiki.ros.org/melodic))
 - OpenCV for image storage and manipulation (installed with [ROS-Desktop](http://wiki.ros.org/melodic))
 - aruco for marker detection
-- cv_camera simple camera publisher **Not part of ROS Melodic**
+- cv_camera simple camera publisher (for ROS Melodic install the camera_info_manager package first and then build cv_camera from source)
 
 ## Rendering
 - OpenGL (at least 4.2) for rendering on GPU
