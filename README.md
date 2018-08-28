@@ -20,6 +20,7 @@ sudo make install
 
 # ROS
 - [ROS-Desktop](http://wiki.ros.org/melodic) Install (for catkin, messages, nodes, ...)
+- [tf2_geometry_msgs](http://wiki.ros.org/tf2_geometry_msgs) for conversion of tf2 messages. Install via apt.
 
 ## Math
 - Eigen3 linear algebra (installed with [ROS-Desktop](http://wiki.ros.org/melodic))
@@ -46,3 +47,5 @@ sudo make install
 Since this is a mixed catkin & cmake workspace, the easiest and fastest way is
 to use the [catkin tools](https://catkin-tools.readthedocs.io/en/latest/) or the
 newer [colcon build](https://colcon.readthedocs.io/en/latest/user/quick-start.html).
+I use some recent CMake commands in the cmake projects so make sure you have a recent
+version (3.12).
