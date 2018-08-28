@@ -8,7 +8,7 @@
                 "${workspaceFolder}/robo_guide/include",
                 "${workspaceFolder}/scigl_render/include",
                 "${workspaceFolder}/scigl_render_ros/include",
-                "/opt/ros/kinetic/include",
+                "/opt/ros/melodic/include",
                 "/usr/include/eigen3",
                 "/home/tim/robo_guide_ws/devel/include/robo_guide_msgs"
             ],
