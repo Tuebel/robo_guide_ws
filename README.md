@@ -44,8 +44,12 @@ sudo make install
 - [googletest](https://github.com/google/googletest)
 
 # Build
+In the past Ubuntu 16.04 and ROS Kinetic were used, which should still work.
+Right now Ubuntu 18.04 an ROS Melodic are in use and tested.
+
 Since this is a mixed catkin & cmake workspace, the easiest and fastest way is
 to use the [catkin tools](https://catkin-tools.readthedocs.io/en/latest/) or the
 newer [colcon build](https://colcon.readthedocs.io/en/latest/user/quick-start.html).
+
 I use some recent CMake commands in the cmake projects so make sure you have a recent
 version (**CMake >= 3.12**, also see [this](https://answers.ros.org/question/293119/how-can-i-updateremove-cmake-without-partially-deleting-my-ros-distribution/)).
