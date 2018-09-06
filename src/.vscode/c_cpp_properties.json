@@ -10,7 +10,8 @@
                 "${workspaceFolder}/scigl_render_ros/include",
                 "/opt/ros/melodic/include",
                 "/usr/include/eigen3",
-                "/home/tim/robo_guide_ws/devel/include/robo_guide_msgs"
+                "/home/tim/robo_guide_ws/devel/include/robo_guide_msgs",
+                "/home/tim/robo_guide_ws/devel/.private/robo_guide_msgs/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang++-6.0",
