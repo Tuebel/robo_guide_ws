@@ -21,6 +21,8 @@ sudo make install
 # ROS
 - [ROS-Desktop](http://wiki.ros.org/melodic) Install (for catkin, messages, nodes, ...)
 - [tf2_geometry_msgs](http://wiki.ros.org/tf2_geometry_msgs) for conversion of tf2 messages. Install via apt.
+- [realsense2_camera](https://github.com/intel-ros/realsense) as data provider for the depth images. With a bit of tweaking of the launch files, the tracker should also run with OpenNI devices.
+- [image_pipeline](http://wiki.ros.org/image_pipeline?distro=melodic) for preprocessing of the raw camera data
 
 ## Math
 - Eigen3 linear algebra (installed with [ROS-Desktop](http://wiki.ros.org/melodic))
