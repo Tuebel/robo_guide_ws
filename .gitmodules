@@ -16,3 +16,6 @@
 [submodule "src/charuco_detect"]
 	path = src/charuco_detect
 	url = https://github.com/Tuebel/charuco_detect.git
+[submodule "src/iiwa_com"]
+	path = src/iiwa_com
+	url = https://github.com/Tuebel/iiwa_com.git
