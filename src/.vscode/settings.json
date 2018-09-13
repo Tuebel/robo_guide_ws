@@ -47,7 +47,17 @@
     "algorithm": "cpp",
     "iostream": "cpp",
     "csignal": "cpp",
-    "strstream": "cpp"
+    "strstream": "cpp",
+    "hash_map": "cpp",
+    "hash_set": "cpp",
+    "bitset": "cpp",
+    "complex": "cpp",
+    "list": "cpp",
+    "unordered_set": "cpp",
+    "iomanip": "cpp",
+    "memory": "cpp",
+    "optional": "cpp",
+    "string_view": "cpp"
   },
   "C_Cpp.intelliSenseEngineFallback": "Enabled"
 }

@@ -11,7 +11,9 @@
                 "/opt/ros/melodic/include",
                 "/usr/include/eigen3",
                 "/home/tim/robo_guide_ws/devel/include/robo_guide_msgs",
-                "/home/tim/robo_guide_ws/devel/.private/robo_guide_msgs/include"
+                "/home/tim/robo_guide_ws/devel/.private/robo_guide_msgs/include",
+                "${workspaceFolder}/iiwa_com/include",
+                "${workspaceFolder}/iiwa_com/src/generated"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang++-6.0",
